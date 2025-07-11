@@ -2,7 +2,7 @@
 
 🌦️ Weather Data Analytics using NOAA API & Tableau
 
-Real-Time Climate Insights from Central Park, NY
+Real-Time Climate Insights from Central Park, New York
 
 🔍 Abstract
   
