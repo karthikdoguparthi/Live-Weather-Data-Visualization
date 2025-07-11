@@ -24,9 +24,9 @@ Climate variability and unpredictable weather events demand better data-driven i
 	
 1. API Token Configuration -->	
 	•	Registered and retrieved API token from NOAA CDO Portal.
-	•	Configured Python scripts and secure environment in VS Code.
+	•	Configured Python scripts and a secure environment in VS Code.
 2. Data Extraction -->	
-	•	Used Python and requests library to extract JSON and CSV-format data from the NOAA endpoint for Central Park, NY.
+	•	Used Python and the requests library to extract JSON and CSV-format data from the NOAA endpoint for Central Park, NY.
 3. Data Cleaning & Transformation -->	
 	•	Removed nulls, scaled temperature units (tenths of °C to °C), formatted timestamps, and converted categorical codes (e.g., WT01-WT08).
 	•	Built calculated fields for advanced metrics such as the Discomfort Index.
